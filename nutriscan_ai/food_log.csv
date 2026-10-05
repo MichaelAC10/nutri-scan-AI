@@ -1,0 +1,3 @@
+timestamp,name,brand,barcode,energy_kcal,sugar_g,fat_g,saturated_fat_g,salt_g,sugar_level,fat_level,salt_level,allergens,flags
+2026-09-29T11:49:43,Nutella,"Nutella, Ferrero",3017620422003,539.0,56.3,30.9,10.6,0.107,High,High,Low,"Milk, Nuts, Soybeans","High in Sugar, High in Fat, High in Saturated Fat, High in Calories"
+2026-09-29T11:50:20,M&M's peanut,Mars Wrigley,5000159492737,524.416135881104,53.0785562632696,25.4777070063694,10.6157112526539,0.106157112526539,High,High,Low,"Milk, Peanuts, Soybeans","High in Sugar, High in Fat, High in Saturated Fat, High in Calories"
